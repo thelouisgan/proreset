@@ -1,0 +1,1 @@
+mv -v ~/Library/Application\ SupPort/.lpxuserdata ~/.Trash
